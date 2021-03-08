@@ -32,7 +32,7 @@
                                                 <th scope="col">Id</th>
                                                 <th scope="col">Name</th>
                                                 <th scope="col">Email</th>
-                                                <th scope="col">Phone</th>
+                                                <th scope="col">Phone No</th>
                                                 <th scope="col">Message</th>
 
                                                 </tr>
